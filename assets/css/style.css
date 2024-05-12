@@ -347,3 +347,36 @@ footer .column .extra a:hover {
   .img-animate:hover {
     transform: rotate(360deg); /* Rotate image 360 degrees on hover */
   }
+
+  .image-size {
+    height: 200px;
+  }
+
+  .padding-left-text {
+    padding-left: 2rem !important;
+  }
+
+  
+.typewriter {
+	/* width: 21.5ch; */
+	white-space: nowrap;
+	overflow: hidden;
+	/* border-right: 4px solid #212121; */
+	animation: cursor 1s step-start infinite, 
+    text 5s steps(50) alternate infinite;
+}
+
+@keyframes cursor {
+	0%, 100% { 
+    border-color: #212121; 
+  }
+}
+
+@keyframes text {
+	0% { 
+    width: 0; 
+  }
+	100% { 
+    width: 100%; 
+  }
+}
