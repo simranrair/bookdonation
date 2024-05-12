@@ -1,2 +1,3 @@
-# bookdonation
-we are going to ake a website where anyone can donate books for the needy people
+<!-- Ref -->
+
+<!-- https://burrelles.com/giving-in-a-tough-economy-what-charities-can-do-to-survive/ -->
